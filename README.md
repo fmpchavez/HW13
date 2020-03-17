@@ -1,4 +1,4 @@
-# 🗳 PROJECT NAME: Fitness Tracker
+# 🗳 PROJECT NAME: Budget Tracker
 
 # 💻 Demo 
 Check deployed app via https://polar-crag-71799.herokuapp.com/
